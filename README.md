@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Akhmad Nuzula! 👋
 
-<!--
-**akhmadnuzula/akhmadnuzula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**akhmadnuzula/akhmadnuzula** is a ✨ _special_ ✨ repository from `me`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+little introduction:
+
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m love learning new programming
+- 👯 I’m want to collaborate with web and mobile programming languages
+- 💬 Ask me about something [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/akhmadnuzula/)) 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
+
+_Be a reliable and honest programmer. You can fool your client, but you can't fool your God_
+
+## 🛠 Skills
+Javascript, HTML, CSS, PHP, Laravel, Codeigniter, ReactJs, React Native, NodeJs, MongoDB, SQL 
