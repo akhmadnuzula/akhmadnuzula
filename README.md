@@ -1,9 +1,9 @@
 # Hi, I'm Akhmad Nuzula! 👋
 
+I'm a full stack developer and **akhmadnuzula/akhmadnuzula** is a ✨ _special_ ✨ repository from `me`.
 
-**akhmadnuzula/akhmadnuzula** is a ✨ _special_ ✨ repository from `me`.
 
-little introduction:
+## 🚀 little introduction:
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m love learning new programming
